@@ -5922,7 +5922,7 @@ var Sg = {
   preload: !1,
   class: 'content-center',
   layout: 'intro',
-  introImage: './amplify-fancy/aws-amplify.svg'
+  introImage: './amplify-fancy/amplify-fancy/aws-amplify.svg'
 }
 function at(e, t, n) {
   Object.defineProperty(e, t, { value: n, writable: !0, enumerable: !1 })
@@ -8368,7 +8368,7 @@ var Ty = bn(Oy, [
     ['render', Py],
     ['__scopeId', 'data-v-d54f5b84']
   ]),
-  Iy = './amplify-fancy/fancy-logo.png',
+  Iy = './amplify-fancy/amplify-fancy/fancy-logo.png',
   Ry = '/assets/logo.69ac8767.png'
 const jy = (e) => (Dd('data-v-03e919f4'), (e = e()), Hd(), e),
   Ly = { grid: '~ cols-3', class: 'items-center' },
@@ -8446,7 +8446,7 @@ const Uy = p(
         layout: 'intro',
         lineNumbers: !0,
         drawings: { enabled: 'dev' },
-        introImage: './amplify-fancy/aws-amplify.svg'
+        introImage: './amplify-fancy/amplify-fancy/aws-amplify.svg'
       }
       return (n, s) => {
         const r = Pt('motion')
@@ -10332,7 +10332,7 @@ const u1 = { class: 'slidev-layout' },
     setup(e) {
       const t = {
         layout: 'right-image-animation',
-        image: './amplify-fancy/aws-amplify.svg',
+        image: './amplify-fancy/amplify-fancy/aws-amplify.svg',
         preload: !1
       }
       return (n, s) => {
@@ -10571,7 +10571,7 @@ const u1 = { class: 'slidev-layout' },
     setup(e) {
       const t = {
         layout: 'right-image-animation',
-        image: './amplify-fancy/mono.svg',
+        image: './amplify-fancy/amplify-fancy/mono.svg',
         preload: !1
       }
       return (n, s) => {
@@ -10598,7 +10598,7 @@ const u1 = { class: 'slidev-layout' },
       }
     }
   }
-var R1 = './amplify-fancy/heaviest-object-in-the-universe.png'
+var R1 = './amplify-fancy/amplify-fancy/heaviest-object-in-the-universe.png'
 const j1 = p(
     'p',
     null,
@@ -10818,7 +10818,7 @@ const j1 = p(
       }
     }
   }
-var X1 = './amplify-fancy/typescript-vs-nodejs.jpg'
+var X1 = './amplify-fancy/amplify-fancy/typescript-vs-nodejs.jpg'
 const Z1 = p(
     'p',
     null,
@@ -11074,12 +11074,12 @@ var _b = [
       layout: 'intro',
       lineNumbers: !0,
       drawings: { enabled: 'dev' },
-      introImage: './amplify-fancy/aws-amplify.svg',
+      introImage: './amplify-fancy/amplify-fancy/aws-amplify.svg',
       slide: {
         start: 0,
         end: 29,
         filepath:
-          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy.md',
+          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy/amplify-fancy.md',
         id: 0,
         no: 1,
         title: 'How To Add Fancy To Your Amplify Functions',
@@ -11099,7 +11099,7 @@ var _b = [
         start: 29,
         end: 47,
         filepath:
-          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy.md',
+          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy/amplify-fancy.md',
         id: 1,
         no: 2
       },
@@ -11113,13 +11113,13 @@ var _b = [
     component: _1,
     meta: {
       layout: 'right-image-animation',
-      image: './amplify-fancy/aws-amplify.svg',
+      image: './amplify-fancy/amplify-fancy/aws-amplify.svg',
       preload: !1,
       slide: {
         start: 47,
         end: 73,
         filepath:
-          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy.md',
+          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy/amplify-fancy.md',
         id: 2,
         no: 3,
         title: '`$which amplify` [^1]',
@@ -11139,7 +11139,7 @@ var _b = [
         start: 73,
         end: 80,
         filepath:
-          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy.md',
+          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy/amplify-fancy.md',
         id: 3,
         no: 4
       },
@@ -11160,7 +11160,7 @@ var _b = [
         start: 80,
         end: 106,
         filepath:
-          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy.md',
+          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy/amplify-fancy.md',
         id: 4,
         no: 5,
         title: 'Fancy',
@@ -11176,13 +11176,13 @@ var _b = [
     component: I1,
     meta: {
       layout: 'right-image-animation',
-      image: './amplify-fancy/mono.svg',
+      image: './amplify-fancy/amplify-fancy/mono.svg',
       preload: !1,
       slide: {
         start: 106,
         end: 134,
         filepath:
-          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy.md',
+          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy/amplify-fancy.md',
         id: 5,
         no: 6,
         title: '`$which Monorepo`[^1][^2]',
@@ -11201,7 +11201,7 @@ var _b = [
         start: 135,
         end: 142,
         filepath:
-          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy.md',
+          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy/amplify-fancy.md',
         id: 6,
         no: 7
       },
@@ -11222,7 +11222,7 @@ var _b = [
         start: 142,
         end: 168,
         filepath:
-          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy.md',
+          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy/amplify-fancy.md',
         id: 7,
         no: 8,
         title: '`$which pnpm` [^1]',
@@ -11245,7 +11245,7 @@ var _b = [
         start: 168,
         end: 193,
         filepath:
-          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy.md',
+          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy/amplify-fancy.md',
         id: 8,
         no: 9,
         title: '`$which Typescript` [^1]',
@@ -11264,7 +11264,7 @@ var _b = [
         start: 194,
         end: 201,
         filepath:
-          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy.md',
+          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy/amplify-fancy.md',
         id: 9,
         no: 10
       },
@@ -11284,7 +11284,7 @@ var _b = [
         start: 201,
         end: 227,
         filepath:
-          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy.md',
+          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy/amplify-fancy.md',
         id: 10,
         no: 11,
         title: '`$which esbuild` [^1]',
@@ -11304,7 +11304,7 @@ var _b = [
         start: 227,
         end: 247,
         filepath:
-          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy.md',
+          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy/amplify-fancy.md',
         id: 11,
         no: 12,
         title: 'Consideration when using Amplify (CLI)',
@@ -11323,7 +11323,7 @@ var _b = [
         start: 248,
         end: 264,
         filepath:
-          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy.md',
+          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy/amplify-fancy.md',
         id: 12,
         no: 13,
         title: 'Conclusion',
@@ -11343,7 +11343,7 @@ var _b = [
         start: 264,
         end: 270,
         filepath:
-          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy.md',
+          '/Users/johnnguyen/Development/xw-slidev-template./amplify-fancy/amplify-fancy.md',
         id: 13,
         no: 14
       },
