@@ -8369,7 +8369,7 @@ var Ty = bn(Oy, [
     ['__scopeId', 'data-v-d54f5b84']
   ]),
   Iy = './amplify-fancy/amplify-fancy/fancy-logo.png',
-  Ry = '/assets/logo.69ac8767.png'
+  Ry = './amplify-fancy/assets/logo.69ac8767.png'
 const jy = (e) => (Dd('data-v-03e919f4'), (e = e()), Hd(), e),
   Ly = { grid: '~ cols-3', class: 'items-center' },
   Fy = { class: 'col-span-2' },
@@ -8385,7 +8385,7 @@ const jy = (e) => (Dd('data-v-03e919f4'), (e = e()), Hd(), e),
         n =
           (s = t.introImage) != null
             ? s
-            : "background-image: url('/assets/img/kreuzwerker-logo_RGB.png'),url('/assets/img/gdn-bg-bottem.png');background-position: right 22%, right 80%;background-size: 25%;background-repeat: no-repeat, no-repeat;"
+            : "background-image: url('./amplify-fancy/assets/img/kreuzwerker-logo_RGB.png'),url('/assets/img/gdn-bg-bottem.png');background-position: right 22%, right 80%;background-size: 25%;background-repeat: no-repeat, no-repeat;"
       return (r, o) => {
         const i = Pt('click')
         return (
