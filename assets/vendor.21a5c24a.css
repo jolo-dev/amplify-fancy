@@ -1282,8 +1282,8 @@ html:not(.dark) .shiki-dark {
   align-content: center;
   height: 100%;
   color: #fff;
-  background-image: url(/assets/kreuzwerker-logo-white_RGB.0911342a.png),
-    url(/assets/background-duo.7160089e.png);
+  background-image: url(/amplify-fancy/assets/kreuzwerker-logo-white_RGB.0911342a.png),
+    url(/amplify-fancy/assets/background-duo.7160089e.png);
   background-repeat: no-repeat, no-repeat;
   background-size: 20%, cover;
   background-position: 95% 95%, 0% 0%;
